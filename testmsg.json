@@ -1,0 +1,15 @@
+//注册
+{"msgid": 3,"name": "zhangsan","password": "123456"}
+{"msgid": 3,"name": "li si","password": "123456"}
+
+//登录
+{"msgid": 1,"id": 1,"password": "123456"}
+{"msgid": 1,"id": 2,"password": "123456"}
+
+//聊天消息
+{"msgid": 5,"id": 1,"from": "zhangsan","to": 2,"msg": "Hello!"}
+{"msgid": 5,"id": 1,"from": "zhangsan","to": 2,"msg": "Hello222"}
+{"msgid": 5,"id": 2,"from": "li si","to": 1,"msg": "fine!"}
+
+//添加好友
+{"msgid": 6,"id": 1,"friendid": 2}

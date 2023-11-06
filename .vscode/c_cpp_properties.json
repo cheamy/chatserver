@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/thirdparty",
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/include/server",
+                "${workspaceFolder}/thirdparty"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/local/gcc7/gcc",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
